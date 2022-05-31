@@ -8,9 +8,15 @@ public class CercaEnPareNoel {
         String ren = ">:o)";
         String follet = "<]:-D";
 
+        char trobador;
+        int comptador = 0;
+
         String fotos = sc.nextLine();
-        if (fotos.contains(pareNoel)){
-            
+
+        for (int i = 0; i < fotos.length(); i++) {
+
+            if (char)
+
         }
 
         sc.close();
